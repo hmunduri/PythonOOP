@@ -46,10 +46,10 @@ print(krish.color)
 hima = Cars("ford", "mustang", "yellow")
 print(hima.color)
 krish.start_car()  
-krish.go()
+#krish.go()
 krish.blow_horn()
 print(krish.air_bags)
 krish.air_bags = 4
 print(krish.air_bags)
 #car1.stop_car()
-
+Cars.go()
