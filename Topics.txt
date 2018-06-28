@@ -1,0 +1,17 @@
+data types - Done
+variables - Done
+functions - Done
+conditions- Done
+loops - Done 
+Data Structures - Done ( Tuple will cover in future)  
+Built in Modules - 
+
+
+OOPS:
+classes - Done
+objects - Done
+instance - Done
+class varibles - Done
+instance variables - Done
+class methods - Done
+constructors - Done
