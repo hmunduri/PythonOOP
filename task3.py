@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 import sys,os
-os.system('cls' if os.name == 'nt' else 'clear')
+#os.system('cls' if os.name == 'nt' else 'clear')
 
 
 #naming convention
@@ -51,11 +51,10 @@ class Account:
                     print("We considered your Loan application and it will be processed")
                 else:
                     print("No sufficient funds,  we cannot process your application for Loan")
-            elif choice == "6" or "Q" or "q" or "quit" or "Quit":
+            elif choice == ("6" or "Q" or "q" or "quit" or "Quit"):
                 break
             else:
                 print("Sorry, You have made a wrong choice")
-                break
 
 
     def open_account(self):
